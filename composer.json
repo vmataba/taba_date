@@ -1,0 +1,12 @@
+{
+    "name": "taba/date",
+    "version": "dev-master",
+    "autoload": {
+        "psr-0" : {
+            "date\\" : ""
+        }
+    },
+  "require": {
+        "yiisoft/yii2": "*"
+    }
+}
